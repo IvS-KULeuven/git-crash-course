@@ -1,0 +1,11 @@
+These are my comments on the git-crash-course
+
+* It took quite some time to create this presentation and I have the feeling it is just in the starting phase.
+  This is the first time given for such a divers group of attendants.
+
+* I would really appreciate any comments on the following crash courses:
+
+  * Linux and Mac Introduction
+
+  * Introduction to git and GitHub
+
