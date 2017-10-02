@@ -1,0 +1,12 @@
+Comments on the linux part:
+
+good introduction. Only issue: why use bash or any other command line shell if you can use the (usually provided) graphical interface?
+an example: If I want a list of files in a certain directory, I would never think of opening a terminal and do a couple 'cd' commands and then an 'ls' command.
+I would rather open a Windows explorer (or Finder in mac or equivalent), and use the mouse to navigate. I understand that when I use the window system, the code is run under the hood.
+Its probably just me, it's easier for me to 'see' the folders/files rather that typing code and stuff. I'll probably get used to it.
+
+On the Git(hub) part.
+also good introduction, especially branching was useful for me.
+Yet I find it hard to say that this system is 'easy' to use:
+There's so many branches, operations and stuff that handeling these things in a bash shell make it very confusing.
+Again, using a graphical interface of git will make life easier for me (on my Windows machine here at home I installed the in house GitHub Desktop application, so far I like it).
