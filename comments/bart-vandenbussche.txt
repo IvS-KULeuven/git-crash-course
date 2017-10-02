@@ -1,4 +1,7 @@
 
-* Very clear pictures for the workflow fork/clone/push/pull request !
+* Very clear pictures for the workflow fork/clone/push/pull request, I finally undrstand it now !
 * Would be useful to indicate on this work flow what is a button push on the githithub website and what is a git command
 * Show in the github website how to get the github URL to use with your git clone command
+
+* I would not have complicated the story with branches.  You might have scared people away, while they don't need it for most purposes
+
