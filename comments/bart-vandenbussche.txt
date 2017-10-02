@@ -1,0 +1,4 @@
+
+* Very clear pictures for the workflow fork/clone/push/pull request !
+* Would be useful to indicate on this work flow what is a button push on the githithub website and what is a git command
+* Show in the github website how to get the github URL to use with your git clone command
