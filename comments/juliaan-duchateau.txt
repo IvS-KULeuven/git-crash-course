@@ -5,14 +5,16 @@ Linux and Mac introduction:
 ---------------------------
 I learnt some new shortcuts, commands on some other tricks.
 It was easy to follow if you are already familiar with Linux,
-for unexperienced people it was going maybe a little bit fast.
+for unexperienced people it was going maybe a little bit fast sometimes.
 
 -------------------------------
-introduction on Git and Github:
+Introduction on Git and Github:
 -------------------------------
 Very interesting course.
+Sometimes a little bit confusing because it was a lot of information
+on a short time period.
 If I only had this info when I was doing my masters thesis.
 During my masters I had to manually keep copies of all my folders like Latex,
 Matlab, Android Studio... Which is a lot of work and kind of a mess.
 
-From now on I will certainly use Git for version control!
+=> From now on I will certainly use Git for version control!
