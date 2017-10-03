@@ -1,0 +1,22 @@
+Comments
+
+First half of the infosession: Basic Linux and bash
+
+Due to the wide audience that was present, the material that was presented was not always very
+relevant. For 1st year master students, it likely was too difficult, since they have no experience with
+linux command line or python. At would also be more clear if these students had been in front of actual
+pcs so they can try things out themselves instead of only listening.
+For people with some earlier experience (PhD students and up), this part of the session was quite 
+boring, since most of the things covered were very basic indeed.
+By trying to accommodate such a wide audience at the same time, I feel that the infosession went a bit
+past both of them. Therefore I would suggest to first give a very basic and interactive introduction to
+the 1st year master students, before organising a joint session with some more practical tips and
+tricks that everyone might need.
+
+Second half of the infosession: Git(Hub)
+
+This part was very useful and also quite clearly presented. It would have been nice to get some more
+concrete and simple, small examples of how git can really simplify your work, besides when working on
+joint software development projects. 
+
+Overall I am happy with the initiative and I will happily attend the coming IT infosessions.
