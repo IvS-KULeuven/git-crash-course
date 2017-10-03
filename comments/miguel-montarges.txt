@@ -1,0 +1,13 @@
+Comments from Miguel Montarges (FWO post doc at IvS)
+
+I have some experience with both Linux and Git. However I still learned several tips from the Linux introduction session.
+I am not sure about the level of the talk. Indeed, I fear it was a bit high for people with no Linux/Unix experience at all.
+On the other hand, for users with some experience (even few), most of the stuffs were probably already known (or accessible with the man command).
+Would it be possible to split the audience in 2 groups next year: "new users" and "users with some experience" ?
+
+I learned Git myself this spring. Definitely this presentation was perfect for new people and the idea of sending (mandatory) comments via Git is really great.
+I did not learn much as this covered only the basic functionalities of Git I use every day. However, I discovered that it was possible to put the name of the active branch
+in the shell's prompt. I am very grateful for that !
+
+As a summary, I would like to insist on the fact that these presentations were useful but I feared that new people were easily lost. A Linux hands on session might be something to consider
+(also in order to make people realize that there is a graphical interface).
