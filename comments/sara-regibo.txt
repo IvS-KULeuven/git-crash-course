@@ -1,0 +1,26 @@
+Linux basics, bash, and scripting
+——————————————————————————————————
+
+* I found it very interesting to hear about the modules to set up your environment for different projects!  Until now, I have been using (i.e. sourcing) set<Project>Environment scripts, which set the required environment variables and other settings for a specific project.  Yesterday, I re-wrote all of these to modules (and cleaned up my .bashrc and .bash_profile) and cleaned up my Python environments.  Unfortunately, I could not use the examples from the presentation on my Mac (to write modules), but I had to use a slightly different syntax (I made a new entry on the System Wiki with a short overview on how to write lua-files).  It took quite some time to sort everything out, but it is totally worth it!  How clean and organised it looks!
+
+* I learnt a couple of new commands, which is always useful!
+
+* Then there was the issue of the level of the presentation.  I think that even the more experienced users could benefit from it.  For the new students without any experience, the presentation was probably to difficult.  It may be useful to sit together with them, showing even very basic stuff like how to open a Console (would have been useful prior to the training)…  I think most of them felt (a bit) overwhelmed...
+
+* Maybe it would have been useful to tell people they can actually google stuff before they come to our office...
+
+
+Version control with git and GitHub
+————————————————————————————————————
+
+* Since I use git on a(n almost) daily basis, this was very relevant for me!
+
+* I had my PhD thesis under version control (CVS at the time), and though I never had need to revert to an older version or to restore parts, it was reassuring to know that I could if I would have needed it.  Very good to advise this to both PhD and master students!
+
+* I’m not sure it was necessary to explain how to use branches…  Most people will probably have no (real) use for branching (though it is cleaner) and the explanation about branches may have complicated things too much.  Though it is of course very useful to mention that branching can be done…
+
+* I was not aware you could enable code completion for git.  How convenient!
+
+
+
+Thanks for your effort!!  The first IT training session was very much appreciated!
