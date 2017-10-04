@@ -1,0 +1,12 @@
+Thank you for taking up the challenge proposed during the IvS Uitje 2017, namely that of providing IT training to an un-IT-trained amalgamation of chimpanzees with scientific brains. 
+
+I thought that the content was well-structured and well presented, however.. For the first part of the presentation, that of introducing bash, I could just not see how a person new to the "appliance" could understand what was happening, especially if he or she had never (up to that point in their life) spent more than 5 minutes in front of a terminal window. I think this  may well have been the case for most of the new Master students in the room. Perhaps it would be useful to change the format to a hands-on IT-training session instead of a slide presented one. 
+
+Let me present a suggestion, you can humor me later. What if the bash introduction session was placed within the bounds of the git-introduction session. This would effectively allow participants to learn git (by making an account on github, forking a repository, and cloning it on their local systems) while also learning about bash by "tinkering" in the cloned git location, on their systems. The audience could for instance navigate the git folder (after having created a development branch) and run the different commands and scripts that Bram presented, provided that these are made available in a dedicated folder. Once done playing around, the audience could stage their results (e.g. the bash script /python script outputs) and then commit the changes to their own git master branch. From there the participants may even make a pull request for the "comments" file, of which the writing you provide as an assignment.
+
+The suggested approach above is just one way to streamline the learning process, but I'm sure it's not the only possible one.
+
+In any case thank you, again, for aranging these IT training sessions. I think everyone in the room must have gotten something out of this (from the master students all the way up to the institute director).
+
+Tot seffens,
+Yannis
