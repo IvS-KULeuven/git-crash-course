@@ -1,0 +1,5 @@
+I liked both of the courses, they gave a nice overview over Linux and Git - thanks for that! I 
+always like it, when I can "get my hands dirty" and try the things out right away, so I would
+have preferred a more interactive setting of the course. And for the future: it might be a good
+idea to have two separate courses, one for the beginners (that might have been confused about
+the quick changes between bash, python, ...) and the people that have some experience already.
