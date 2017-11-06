@@ -1,0 +1,7 @@
+My comments on the IT training:
+
+* Probably the new master students need an even more basic introduction to working with a terminal, because they might never have seen it before
+
+* Maybe more example module files or examples from a proper bashrc file should be available to get inspiration from for individual purpose
+
+* The slides were clearly structured, especially the slides about git and github. Such a step-by-step explanation is definitely necessary for a basic introduction
