@@ -9,3 +9,4 @@ These are my comments on the git-crash-course
 
   * Introduction to git and GitHub
 
+* The course was great!
